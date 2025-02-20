@@ -10,15 +10,15 @@ Impartido como parte del Diplomado de Analisis Computacional Estadistico de Dato
 - [x] *Bloque B.* Aprendizaje supervisado: clasificación.
 ### Deep Learning
 - [x] *Bloque A.* Desmitificando el Deep Learning: mi primer red neuronal.
-- [x] *Bloque B.* RNA como aproximadores universales.
+- [ ] *Bloque B.* RNA como aproximadores universales.
 - **Actividad Evaluada.**
 ### Otras aplicaciones
-- [x] *Bloque A.* Series temporales.
-- [x] *Bloque B.* Reducción de la dimensionalidad.
-- [x] *Bloque C.* Aprendizaje no supervisado: clusterización.
+- [ ] *Bloque A.* Series temporales.
+- [ ] *Bloque B.* Reducción de la dimensionalidad.
+- [ ] *Bloque C.* Aprendizaje no supervisado: clusterización.
 ### Al infinito y más allá!
-- [x] *Bloque A.* Métodos de ensamble.
-- [x] *Bloque B.* Tópicos avanzados: PLN, CV, GraphML, LLMs.
+- [ ] *Bloque A.* Métodos de ensamble.
+- [ ] *Bloque B.* Tópicos avanzados: PLN, CV, GraphML, LLMs.
 
 ## Bibliografía
 - Geron, A. (2023). Hands-on machine learning with Scikit-Learn, Keras & TensorFlow. O’Reilly Media.
