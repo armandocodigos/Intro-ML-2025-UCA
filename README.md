@@ -10,7 +10,7 @@ Impartido como parte del Diplomado de Analisis Computacional Estadistico de Dato
 - [x] *Bloque B.* Aprendizaje supervisado: clasificación.
 ### Deep Learning
 - [x] *Bloque A.* Desmitificando el Deep Learning: mi primer red neuronal.
-- [ ] *Bloque B.* RNA como aproximadores universales.
+- [x] *Bloque B.* RNA como aproximadores universales.
 - **Actividad Evaluada.**
 ### Otras aplicaciones
 - [ ] *Bloque A.* Series temporales.
